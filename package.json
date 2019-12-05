@@ -1,0 +1,8 @@
+{
+  "name": "gympoint-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MatheusKindrazki/gympoint-backend.git",
+  "author": "Matheus Kindrazki <matheuskindrazki@gmail.com>",
+  "license": "MIT"
+}
